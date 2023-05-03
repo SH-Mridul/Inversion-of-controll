@@ -1,0 +1,15 @@
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\bin\Debug\net7.0\Inversionofcontrol.exe
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\bin\Debug\net7.0\Inversionofcontrol.deps.json
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\bin\Debug\net7.0\Inversionofcontrol.runtimeconfig.json
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\bin\Debug\net7.0\Inversionofcontrol.dll
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\bin\Debug\net7.0\Inversionofcontrol.pdb
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.csproj.AssemblyReference.cache
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.AssemblyInfoInputs.cache
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.AssemblyInfo.cs
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.csproj.CoreCompileInputs.cache
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.dll
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\refint\Inversionofcontrol.dll
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.pdb
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\Inversionofcontrol.genruntimeconfig.cache
+G:\Dependency Injection\Inversionofcontrol\Inversionofcontrol\obj\Debug\net7.0\ref\Inversionofcontrol.dll
